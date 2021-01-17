@@ -1,2 +1,1 @@
-# machine
-Arabalar ve insanları videodan tanıyan yapay zeka örneği
+# bir şeyler bir şeyler
